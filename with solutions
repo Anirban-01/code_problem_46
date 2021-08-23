@@ -1,0 +1,9 @@
+# Write a Python program to create a tuple.
+
+my_tuple = ()
+my_tuple1 = 1
+my_tuple2 = 2
+my_tuple3 = 3
+my_tuple4 = 3
+my_tuple = my_tuple1, my_tuple2, my_tuple3, my_tuple4
+print(my_tuple)
